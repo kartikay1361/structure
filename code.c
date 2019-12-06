@@ -12,5 +12,5 @@ int main() {
         t2 = nextTerm;
     }
 
-    return ;
+    return 0;
 }
